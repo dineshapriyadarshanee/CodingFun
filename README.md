@@ -6,4 +6,5 @@ Word Finder is based on the popular game "Scrabble Score". The player has to mak
 Each word is checked whether it is a standard word in English. 
 Score is calculated according to the attempts of the user.
 A simple gui has been created to test the game.
+Related files are WordFind.py, log_viewer.py and test.py
 
